@@ -3,7 +3,7 @@
 lock '3.6.1'
 
 set :application, 'demo'
-set :repo_url, 'git@example.com:me/my_repo.git'
+set :repo_url, 'git@github.com:Senio/demo.git'
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
